@@ -16,7 +16,7 @@ h1{
     margin-left: 100px;
 }
 .slider{
-    background-image: url(/img/image.png);
+    background-image: url(./img/image.png);
 }
 .slider h2{
     margin-bottom: 100px;
@@ -193,6 +193,7 @@ padding-left: 550px;
  align-items: center;
  padding-left: 350px;
 }
+
 
 
 
